@@ -39,8 +39,53 @@
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
 [**School:**]() FACEI - Faculty of Interdisciplinary Studies  <br>
 [Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 72 Hours <br>
-**Professor:**  [✨  Eduardo Savino Gomese]()  <br>
+**Professor:**  [✨  Eduardo Savino Gomes]()  <br>
 [Extensionist Activities:]() Social projects with open-source software for community support.  <br>
+
+<br><br>
+
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+<br><br>
+
+<!--Confidentiality statement -->
+
+#
+
+<br><br><br>
+
+> [!NOTE]
+> 
+> ⚠️ Heads Up
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+>   
+> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Machine Learning and Neural Networks** for partner organizations and institutions affiliated with the university.
+>   
+> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+>   
+> * Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
+> <br>
+>
+>
+
+
+
+<br><br>
+
+#
+
+<!--END Confidentiality statement -->
+
+
+<br><br><br>
+
+
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+
+
 
 
 
