@@ -88,6 +88,24 @@
 
 
 
+## [Overview]()
+
+This sub-repository documents fundamental principles, methods, governance models, and tools for **Project Management in technology-driven environments**, including AI systems, cybersecurity initiatives, awareness campaigns, and secure infrastructure deployments.
+
+The content is derived from academic material used at PUC-SP (Data Science & Artificial Intelligence) and aligned with international standards from the **Project Management Institute (PMI)** and the **PMBOK Guide**.[file:1][web:2]  
+
+It serves as a structured reference for:
+
+- Students  
+- Researchers  
+- IT professionals  
+- Cybersecurity practitioners  
+- Project managers  
+- Governance and compliance analysts  
+
+
+
+<br><br>
 
 
 
