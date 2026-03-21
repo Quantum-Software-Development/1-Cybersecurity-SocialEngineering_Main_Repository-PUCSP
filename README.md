@@ -90,6 +90,8 @@
 ## 📋 Table of Contents
 
 - [Course Overview](#course-overview)
+- [Core Areas](#core-areas)
+- [Objective](#objective)
 - [Core Learning Pillars](#core-learning-pillars)
 - [Weekly Classes Schedule](#weekly-classes-schedule)
 - [Folder Structure](#folder-structure)
@@ -114,11 +116,10 @@ This repository serves as the **central academic and practical hub** for a cours
 
 It is designed to integrate **theoretical foundations, applied methodologies, and real-world perspectives**, preparing learners for modern security challenges.
 
-<br>
+<br><br>
 
-#
 
-###  [Core Areas]()
+##  [Core Areas]()
 
 -  [**Cybersecurity Foundations**]() — principles, threats, and defense strategies  
 -  [**Social Engineering**]() — human factors, persuasion, and attack vectors  
@@ -128,7 +129,23 @@ It is designed to integrate **theoretical foundations, applied methodologies, an
 
 <br><br>
 
-## Core Learning Pillars
+
+##  [Objective]()
+
+The course aims to develop a **comprehensive understanding of vulnerabilities** across both **technical systems and human behavior**, enabling learners to:
+
+[-]()  Identify and analyze security weaknesses  
+[-]()  Understand attack methodologies  
+[-]()  Anticipate complex threat scenarios  
+[-]()  Design and implement effective defensive solutions  
+
+with a strong focus on [**AI-driven environments and emerging risks**]().     
+
+
+br><br>
+
+
+## [Core Learning Pillars]()
 
 | Pillar | What You Will Master | Practical Application |
 | :-- | :-- | :-- |
