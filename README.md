@@ -87,7 +87,25 @@
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 
+## 📋 Table of Contents
 
+- [Course Overview](#course-overview)
+- [Core Learning Pillars](#core-learning-pillars)
+- [Weekly Classes Schedule](#weekly-classes-schedule)
+- [Folder Structure](#folder-structure)
+- [Related Project Repositories](#related-project-repositories)
+- [Professor Information](#professor-information)
+- [Quick Start Guide](#quick-start-guide)
+- [Grading \& Assessment](#grading--assessment)
+- [Learning Resources](#learning-resources)
+- [Tooling Stack](#tooling-stack)
+- [Contributing Guidelines](#contributing-guidelines)
+- [License](#license)
+- [Repository Stats](#repository-stats)
+
+
+
+<br><br>
 
 
 
