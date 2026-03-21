@@ -108,31 +108,31 @@
 
 
 
-## 📘 Course Overview
+##  [Course Overview]()
 
 This repository serves as the **central academic and practical hub** for a course in **Cybersecurity, Social Engineering, AI System Protection, and Ethical Hacking**.
 
 It is designed to integrate **theoretical foundations, applied methodologies, and real-world perspectives**, preparing learners for modern security challenges.
 
-<br><br>
+<br>
 
-##  Core Areas
+###  [Core Areas]()
 
--  **Cybersecurity Foundations** — principles, threats, and defense strategies  
--  **Social Engineering** — human factors, persuasion, and attack vectors  
--  **AI System Protection** — securing intelligent systems and mitigating adversarial risks  
--  **Ethical Hacking** — penetration testing concepts and responsible exploitation  
+-  [**Cybersecurity Foundations**]() — principles, threats, and defense strategies  
+-  [**Social Engineering**]() — human factors, persuasion, and attack vectors  
+-  [**AI System Protection**]() — securing intelligent systems and mitigating adversarial risks  
+-  [**Ethical Hacking**]() — penetration testing concepts and responsible exploitation  
 
-<br><br>
+<br>
 
-##  Objective
+###  [Objective]()
 
 The course aims to develop a **comprehensive understanding of vulnerabilities** across both **technical systems and human behavior**, enabling learners to:
 
--  Identify and analyze security weaknesses  
--  Understand attack methodologies  
--  Anticipate complex threat scenarios  
--  Design and implement effective defensive solutions  
+[-]()  Identify and analyze security weaknesses  
+[-]()  Understand attack methodologies  
+[-]()  Anticipate complex threat scenarios  
+[-]()  Design and implement effective defensive solutions  
 
 with a strong focus on [**AI-driven environments and emerging risks**]().
 
