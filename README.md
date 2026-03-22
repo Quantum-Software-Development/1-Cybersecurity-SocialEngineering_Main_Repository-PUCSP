@@ -209,8 +209,30 @@ Each week should contain:
 - Practical exercises
 - References
 
----
 <br><br>
+
+
+## Related Project Repositories
+
+| Project | Description | Status |
+| :-- | :-- | :-- |
+| Phishing Detector | Machine Learning model to detect fraudulent emails | Coming Soon |
+| Social Engineering Simulator | Awareness training simulation | Coming Soon |
+| AI Security Toolkit | Monitoring and protection utilities | Coming Soon |
+| CTF Challenges | Capture The Flag exercises | Coming Soon |
+
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
 
 
 
