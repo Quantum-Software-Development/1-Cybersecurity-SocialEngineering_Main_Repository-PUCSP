@@ -45,6 +45,13 @@
 <br><br>
 
 
+[![PUC-SP](https://via.placeholder.com/150x50/003087/FFFFFF?text=PUC-SP)](https://www.pucsp.br/)<br>
+[![Professor](https://img.shields.io/badge/Professor-Eduardo%20Savino%20Gomese-blue.svg)](https://www.pucsp.br/)<br>
+[![Status](https://img.shields.io/badge/Status-Semester%202026-green.svg)](https://github.com/fabianacampaari)<br>
+
+<br><br>
+
+
  <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
