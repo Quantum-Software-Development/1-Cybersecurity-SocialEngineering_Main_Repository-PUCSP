@@ -160,10 +160,9 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 
 
 
-## [Weekly Classes Schedule]()
+## [Weekly Roadmap /Classes Schedule]()
 
-**Complete 18-week Roadmap – 2026**
-
+<br>
 
 | Week | Topic | Resources | Status |
 | :-- | :-- | :-- | :-- |
