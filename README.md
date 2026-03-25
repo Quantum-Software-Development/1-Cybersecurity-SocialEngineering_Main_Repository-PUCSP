@@ -212,7 +212,7 @@ Each week should contain:
 <br><br>
 
 
-## Related Project Repositories
+ ## [Extension \& Applied Projects / Repositories]
 
 | Project | Description | Status |
 | :-- | :-- | :-- |
