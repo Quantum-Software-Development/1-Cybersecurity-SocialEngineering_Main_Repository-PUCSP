@@ -227,9 +227,13 @@ Each week should contain:
 | CTF Challenges | Capture The Flag exercises | Coming Soon |
 
 
-Projects are structured to be publicly documented and version-controlled.
+> [!IMPORTAT]
+> 
+> Projects are structured to be publicly documented and version-controlled. <br>
+> 
 
-<br>
+
+
 
 
 
