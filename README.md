@@ -189,28 +189,6 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 <br><br>
 
 
-## Folder Structure
-
-/semana1/
-/semana2/
-/semana3/
-/labs/
-/projects/
-/docs/
-
-
-<br>
-
-Each week should contain:
-
-- Slides
-- Notes (Markdown or Notebook)
-- Practical exercises
-- References
-
-<br><br>
-
-
  ## [Extension \& Applied Projects / Repositories]()
 
  <br>
