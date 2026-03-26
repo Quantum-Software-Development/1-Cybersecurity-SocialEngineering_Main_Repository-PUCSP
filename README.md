@@ -50,10 +50,6 @@
 <br><br>
 
 
-[![Professor](https://img.shields.io/badge/Professor-Eduardo%20Savino%20Gomese-blue.svg)](https://www.pucsp.br/) [![Status](https://img.shields.io/badge/Status-Semester%202026-green.svg)](https://github.com/fabianacampaari)<br>
-
-
-<br><br>
 
 <!--Confidentiality statement -->
 
