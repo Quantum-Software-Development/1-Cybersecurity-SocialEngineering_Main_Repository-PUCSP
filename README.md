@@ -199,15 +199,15 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 
 | [Project]() | [Description]() | [Status]() |
 | :-- | :-- | :-- |
-| Phishing Detector | Machine Learning model to detect fraudulent emails | Coming Soon |
-| Social Engineering Simulator | Awareness training simulation | Coming Soon |
-| AI Security Toolkit | Monitoring and protection utilities | Coming Soon |
-| CTF Challenges | Capture The Flag exercises | Coming Soon |
+| [Phishing Detector]() | Machine Learning model to detect fraudulent emails | Coming Soon |
+| [Social Engineering Simulator]() | Awareness training simulation | Coming Soon |
+| [AI Security Toolkit]() | Monitoring and protection utilities | Coming Soon |
+| [CTF Challenges]() | Capture The Flag exercises | Coming Soon |
 
 
 <br>
 
-> [!IMPORTAT]
+> [!IMPORTANT]
 > 
 > Projects are structured to be publicly documented and version-controlled. <br>
 > 
