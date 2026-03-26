@@ -164,7 +164,7 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 
 <br>
 
-| Week | Topic | Resources | Status |
+| Week]() | Topic]() | [Resources]() | [Status]() |
 | :-- | :-- | :-- | :-- |
 | 1 | Introduction \& Cybersecurity Foundations | [Slides]() [Notes]() | Planned |
 | 2 | Authentication \& Password Security | [Slides]() [Video]() | Planned |
