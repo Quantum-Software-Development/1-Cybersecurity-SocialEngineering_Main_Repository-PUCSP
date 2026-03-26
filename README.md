@@ -197,7 +197,7 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 
  <br>
 
-| Project | Description | Status |
+| [Project]() | [Description]() | [Status]() |
 | :-- | :-- | :-- |
 | Phishing Detector | Machine Learning model to detect fraudulent emails | Coming Soon |
 | Social Engineering Simulator | Awareness training simulation | Coming Soon |
