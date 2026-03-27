@@ -112,9 +112,9 @@
 
 ##  [Course Overview]()
 
-This repository serves as the **central academic and practical hub** for a course in **Cybersecurity, Social Engineering, AI System Protection, and Ethical Hacking**.
+This repository serves as the [**central academic and practical hub**]() for a course in [**Cybersecurity, Social Engineering, AI System Protection, and Ethical Hacking**]().
 
-It is designed to integrate **theoretical foundations, applied methodologies, and real-world perspectives**, preparing learners for modern security challenges.
+It is designed to integrate [**theoretical foundations, applied methodologies, and real-world perspectives**](), preparing learners for modern security challenges.
 
 <br><br>
 
@@ -168,9 +168,7 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 
 <br>
 
-## [Weekly Roadmap] {#weekly-roadmap}
-
-| Week | Topic |
+| [Week]() | [Topic]() |
 |------|-------|
 | 1 | Introduction to Cybersecurity |
 | 2 | Authentication & Password Security |
@@ -190,6 +188,7 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 | 16 | Advanced Security Topics |
 | 17 | AI Ethics & Compliance |
 | 18 | Final Review & Assessment |
+
 
 <br><br>
 
