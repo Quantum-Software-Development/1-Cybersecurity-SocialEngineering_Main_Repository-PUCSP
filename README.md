@@ -200,24 +200,24 @@ With a strong focus on [**AI-driven environments and emerging risks**]().
 
 | **Week** | **Date (2026)** | **Topic** | **Status** |
 |----------|----------------|-----------|------------|
-| **1** | Feb 2 | [Introduction to Cybersecurity]() | 📋 Planned |
-| **2** | Feb 9 | [Authentication & Passwords]() | 📋 Planned |
-| **3** | Feb 16 | [Malware & Threat Actors]() | 📋 Planned |
-| **4** | Feb 23 | [Network Security]() | 📋 Planned |
-| **5** | Mar 2 | [Encryption & Cryptography]() | 📋 Planned |
-| **6** | Mar 9 | [Social Engineering Fundamentals]() | 📋 Planned |
-| **7** | Mar 16 | [Phishing & Pretexting]() | 📋 Planned |
-| **8** | Mar 23 | [Midterm Labs & Review]() | 📋 Planned |
-| **9** | Mar 30 | [Advanced Social Attacks]() | 📋 Planned |
-| **10** | Apr 6 | [AI in Cybersecurity]() | 📋 Planned |
-| **11** | Apr 13 | [Defensive Architectures]() | 📋 Planned |
-| **12** | Apr 20 | [Ethical Hacking]() | 📋 Planned |
-| **13** | Apr 27 | [Real Case Studies]() | 📋 Planned |
-| **14** | May 4 | [Group Projects]() | 📋 Planned |
-| **15** | May 11 | [Presentations]() | 📋 Planned |
-| **16** | May 18 | [Advanced Topics]() | 📋 Planned |
-| **17** | May 25 | [AI Ethics & Compliance]() | 📋 Planned |
-| **18** | Jun 1 | [Final Assessment]() | 📋 Planned |
+| **1** | Feb 2 | [Introduction to Cybersecurity]() |  Planned |
+| **2** | Feb 9 | [Authentication & Passwords]() |  Planned |
+| **3** | Feb 16 | [Malware & Threat Actors]() |  Planned |
+| **4** | Feb 23 | [Network Security]() |  Planned |
+| **5** | Mar 2 | [Encryption & Cryptography]() |  Planned |
+| **6** | Mar 9 | [Social Engineering Fundamentals]() |  Planned |
+| **7** | Mar 16 | [Phishing & Pretexting]() |  Planned |
+| **8** | Mar 23 | [Midterm Labs & Review]() |  Planned |
+| **9** | Mar 30 | [Advanced Social Attacks]() |  Planned |
+| **10** | Apr 6 | [AI in Cybersecurity]() |  Planned |
+| **11** | Apr 13 | [Defensive Architectures]() |  Planned |
+| **12** | Apr 20 | [Ethical Hacking]() |  Planned |
+| **13** | Apr 27 | [Real Case Studies]() | Planned |
+| **14** | May 4 | [Group Projects]() |  Planned |
+| **15** | May 11 | [Presentations]() |  Planned |
+| **16** | May 18 | [Advanced Topics]() |  Planned |
+| **17** | May 25 | [AI Ethics & Compliance]() |  Planned |
+| **18** | Jun 1 | [Final Assessment]() |  Planned |
 
 
 <br><br>
