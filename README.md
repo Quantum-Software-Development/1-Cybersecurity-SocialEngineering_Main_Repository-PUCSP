@@ -168,27 +168,28 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 
 <br>
 
-| [Week]() | [Topic]() | [Resources]() | [Status]() |
-| :-- | :-- | :-- | :-- |
-| 1 | Introduction \& Cybersecurity Foundations | [Slides]() [Notes]() | Planned |
-| 2 | Authentication \& Password Security | [Slides]() [Video]() | Planned |
-| 3 | Malware \& Threat Actors | [Slides]() [Lab]() | Planned |
-| 4 | Network Security Fundamentals | [Slides]() [Code]() | Planned |
-| 5 | Encryption \& Cryptography | [Slides]() [Demo]() | Planned |
-| 6 | Social Engineering Fundamentals | [Slides]() [Video]() | Planned |
-| 7 | Phishing \& Pretexting | [Slides]() [Simulation]() | Planned |
-| 8 | Midterm Labs \& Review | [Slides]() [Quiz]() | Planned |
-| 9 | Advanced Social Attacks | [Slides]() [Lab]() | Planned |
-| 10 | AI in Cybersecurity | [Slides]() [Code]() | Planned |
-| 11 | Defense Strategies | [Slides]() [Project]() | Planned |
-| 12 | Ethical Hacking Basics | [Slides]() [Demo]() | Planned |
-| 13 | Real Case Studies | [Slides]() [Video]() | Planned |
-| 14 | Group Projects | [Slides]() [Repository]() | Planned |
-| 15 | Project Presentations | [Slides]() | Planned |
-| 16 | Advanced Topics | [Slides]() | Planned |
-| 17 | Ethics \& AI Safety | [Slides]() | Planned |
-| 18 | Final Review \& Exam | [Slides]() [Exam]() | Planned |
+## [Weekly Roadmap] {#weekly-roadmap}
 
+| Week | Topic |
+|------|-------|
+| 1 | Introduction to Cybersecurity |
+| 2 | Authentication & Password Security |
+| 3 | Malware & Threat Actors |
+| 4 | Network Security Fundamentals |
+| 5 | Encryption & Cryptography |
+| 6 | Social Engineering Fundamentals |
+| 7 | Phishing & Pretexting |
+| 8 | Midterm Lab & Review |
+| 9 | Advanced Social Attacks |
+| 10 | AI in Cybersecurity |
+| 11 | Defensive Architectures |
+| 12 | Ethical Hacking Foundations |
+| 13 | Real-world Case Studies |
+| 14 | Group Project Development |
+| 15 | Project Presentations |
+| 16 | Advanced Security Topics |
+| 17 | AI Ethics & Compliance |
+| 18 | Final Review & Assessment |
 
 <br><br>
 
