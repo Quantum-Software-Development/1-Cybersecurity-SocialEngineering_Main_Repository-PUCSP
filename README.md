@@ -161,11 +161,7 @@ With a strong focus on [**AI-driven environments and emerging risks**]().
 | **AI Security** | Adversarial ML, model poisoning | Secure ML pipelines | Poisoning the well |
 | **Ethical Hacking** | Penetration testing, CTF | Attack simulation | Friendly spy games |
 | **Pillar** | **Technical Focus** | **Applied Outcome** | **Kid Analogy** |
-|------------|-------------------|-------------------|-----------------|
-| **Cybersecurity Foundations** | Encryption, IDS/IPS, firewalls | Infrastructure protection | Digital castle walls |
-| **Social Engineering** | Phishing, pretexting, baiting | Human risk mitigation | Tricking the guards |
-| **AI Security** | Adversarial ML, model poisoning | Secure ML pipelines | Poisoning the well |
-| **Ethical Hacking** | Penetration testing, CTF | Attack simulation | Friendly spy games |
+
 
 
 <br><br>
