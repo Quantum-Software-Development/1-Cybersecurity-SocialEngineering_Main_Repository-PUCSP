@@ -197,26 +197,27 @@ With a strong focus on [**AI-driven environments and emerging risks**]().
 
 <br>
 
-| [Week]() | [Topic]() |
-|------|-------|
-| 1 | Introduction to Cybersecurity |
-| 2 | Authentication & Password Security |
-| 3 | Malware & Threat Actors |
-| 4 | Network Security Fundamentals |
-| 5 | Encryption & Cryptography |
-| 6 | Social Engineering Fundamentals |
-| 7 | Phishing & Pretexting |
-| 8 | Midterm Lab & Review |
-| 9 | Advanced Social Attacks |
-| 10 | AI in Cybersecurity |
-| 11 | Defensive Architectures |
-| 12 | Ethical Hacking Foundations |
-| 13 | Real-world Case Studies |
-| 14 | Group Project Development |
-| 15 | Project Presentations |
-| 16 | Advanced Security Topics |
-| 17 | AI Ethics & Compliance |
-| 18 | Final Review & Assessment |
+
+| **Week** | **Date (2026)** | **Topic** | **Status** |
+|----------|----------------|-----------|------------|
+| **1** | Feb 2 | [Introduction to Cybersecurity]() | 📋 Planned |
+| **2** | Feb 9 | [Authentication & Passwords]() | 📋 Planned |
+| **3** | Feb 16 | [Malware & Threat Actors]() | 📋 Planned |
+| **4** | Feb 23 | [Network Security]() | 📋 Planned |
+| **5** | Mar 2 | [Encryption & Cryptography]() | 📋 Planned |
+| **6** | Mar 9 | [Social Engineering Fundamentals]() | 📋 Planned |
+| **7** | Mar 16 | [Phishing & Pretexting]() | 📋 Planned |
+| **8** | Mar 23 | [Midterm Labs & Review]() | 📋 Planned |
+| **9** | Mar 30 | [Advanced Social Attacks]() | 📋 Planned |
+| **10** | Apr 6 | [AI in Cybersecurity]() | 📋 Planned |
+| **11** | Apr 13 | [Defensive Architectures]() | 📋 Planned |
+| **12** | Apr 20 | [Ethical Hacking]() | 📋 Planned |
+| **13** | Apr 27 | [Real Case Studies]() | 📋 Planned |
+| **14** | May 4 | [Group Projects]() | 📋 Planned |
+| **15** | May 11 | [Presentations]() | 📋 Planned |
+| **16** | May 18 | [Advanced Topics]() | 📋 Planned |
+| **17** | May 25 | [AI Ethics & Compliance]() | 📋 Planned |
+| **18** | Jun 1 | [Final Assessment]() | 📋 Planned |
 
 
 <br><br>
