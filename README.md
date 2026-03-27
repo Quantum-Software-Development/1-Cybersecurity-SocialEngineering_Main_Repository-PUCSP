@@ -9,7 +9,11 @@
 #  <p align="center"> 1- 🔐 [Cybersecurity and Social Engineering ]() / [Main Repository]()
 
  
-###  Main repository for the **PUC-SP 5th Semester Academic Hub (2026)** — focused on **Cybersecurity & Social Engineering**, featuring hands-on labs, ethical hacking simulations, AI security practices, threat analysis, and applied defense strategies aligned with real-world security scenarios. 
+Main repository for the PUC-SP 5th Semester Academic Hub (2026), centered on the course “Cybersecurity and Social Engineering” within the Data Science and Artificial Intelligence program at Pontifícia Universidade Católica de São Paulo (FACEI).
+
+This repository integrates theoretical foundations and hands-on practice, covering topics such as cybersecurity, social engineering, distributed systems, APIs, data analysis, and applied extension projects using Web Services and Machine Learning.
+
+It features hands-on labs, ethical hacking simulations, AI-driven security practices, threat analysis, and applied defense strategies, all aligned with real-world security scenarios and contemporary challenges in AI, cyber risk, and intelligent systems.
 
 
 
