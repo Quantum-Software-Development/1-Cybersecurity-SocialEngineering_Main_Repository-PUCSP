@@ -127,21 +127,24 @@ It is designed to integrate [**theoretical foundations, applied methodologies, a
 -  [**Ethical Hacking**]() — penetration testing concepts and responsible exploitation  
 
 
-<br><br><br><br>
+<br><br>
 
 
 ##  [Objective]()
 
 The course aims to develop a **comprehensive understanding of vulnerabilities** across both **technical systems and human behavior**, enabling learners to:
 
-[-]()  Identify and analyze security weaknesses  
-[-]()  Understand attack methodologies  
-[-]()  Anticipate complex threat scenarios  
-[-]()  Design and implement effective defensive solutions  
+
+[-]()  Master **core cybersecurity principles** and architectures.<br>
+[-]()  Identify + mitigate **social engineering threats** (phishing, pretexting).<br>
+[-]()  Protect **AI/ML systems** against adversarial attacks + model poisoning.<br>
+[-]()  Apply **encryption + authentication** mechanisms correctly.<br>
+[-]()  Conduct **ethical security testing** (penetration testing, CTF).<br>
+[-]()  Design **defensive strategies** aligned with AI ethics standards.<br>
 
 <br>
 
-with a strong focus on [**AI-driven environments and emerging risks**]().     
+With a strong focus on [**AI-driven environments and emerging risks**]().     
 
 
 <br><br>
