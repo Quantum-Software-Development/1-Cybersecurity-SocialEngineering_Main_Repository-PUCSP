@@ -313,7 +313,7 @@ The [**second subproject**]() in the briefing explicitly requires building an AP
 
 <br>
 
-### ⚡️ Planned internal structure 
+### ⚡️ [Planned internal structure]()
 
 <br>
 
@@ -335,7 +335,10 @@ The [**second subproject**]() in the briefing explicitly requires building an AP
 <br><br>
 
 
+## [Related Projects]()
 
+In addition to the official extension project, this repository may host **extra projects related to cybersecurity, OSINT and data engineering**.  
+These are related to the discipline, but **not formally part of the extension agreement**.
 
 
 
