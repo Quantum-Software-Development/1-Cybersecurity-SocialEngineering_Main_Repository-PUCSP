@@ -230,7 +230,7 @@ It is composed of **two subprojects (two stages)** that together satisfy the ext
 
 <br>
 
-### [Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction]()
+### [**Stage 1**]() – Consuming Third‑Party APIs, Dashboards and Prediction
 
 [**Theme:**]() “Consuming APIs for data analysis” – using Web Services for [**knowledge and prediction**]() based on remote data.  
 
