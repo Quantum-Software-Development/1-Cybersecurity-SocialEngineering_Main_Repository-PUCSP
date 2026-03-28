@@ -197,11 +197,11 @@ By the end of the course, students should be able to:
 
 | [Week]() | [Topics]() | [Notes]() |
 |------|--------|-------|
-| 1 | Course introduction, bibliography, grading criteria, **information security problems**, project management. | Opening and context. |
-| 2 | **Distributed systems concepts**, client–server architecture, HTTP server, REST architecture and JSON format. | Technical foundations. |
-| 3 | **CRISP‑DM** process. | Data mining methodology. |
-| 4 | RapidAPI platform introduction; testing APIs; each group selects an API to consume and generate plots. | Start of API-based project.|
-| 5 | Project support (API + data analysis). | Follow-up. |
+| 1 | [Course introduction, bibliography, grading criteria, **information security problems**, project management.]() | Opening and context. |
+| 2 | [**Distributed systems concepts**, client–server architecture, HTTP server, REST architecture and JSON format.]() | Technical foundations. |
+| 3 | [**CRISP‑DM** process.]() | Data mining methodology. |
+| 4 | [RapidAPI platform introduction; testing APIs; each group selects an API to consume and generate plots.]() | Start of API-based project.|
+| 5 | [Project support (API + data analysis).]() | Follow-up. |
 | 6 | Consuming Web Services, generating plots; review of NumPy, Pandas, Plotly, Seaborn etc. | Tools review. |
 | 7 | Building dashboards in Python. | Dashboard construction. |
 | 8 | Group presentations of the WebService project. | 1st project evaluation.|
