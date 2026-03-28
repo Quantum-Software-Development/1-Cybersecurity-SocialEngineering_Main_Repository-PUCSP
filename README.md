@@ -115,6 +115,29 @@ This enables the integration of **real-world financial data** into cybersecurity
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- DETAILED=========
+
 ##  [Course Overview]()
 
 This repository serves as the [**central academic and practical hub**]() for a course in [**Cybersecurity, Social Engineering, AI System Protection, and Ethical Hacking**]().
@@ -343,7 +366,7 @@ The [**second subproject**]() in the briefing explicitly requires building an AP
 In addition to the official extension project, this repository may host **extra projects related to cybersecurity, OSINT and data engineering**.  
 These are related to the discipline, but **not formally part of the extension agreement**.
 
-
+--->
 
 
 
