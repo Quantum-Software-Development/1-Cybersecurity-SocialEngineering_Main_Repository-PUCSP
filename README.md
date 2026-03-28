@@ -118,6 +118,8 @@ This repository serves as the [**central academic and practical hub**]() for a c
 
 It is designed to integrate [**theoretical foundations, applied methodologies, and real-world perspectives**](), preparing learners for modern security challenges.
 
+
+
 <br><br>
 
 
@@ -134,8 +136,20 @@ It is designed to integrate [**theoretical foundations, applied methodologies, a
 
 ##  [Objective]()
 
-The course aims to develop a **comprehensive understanding of vulnerabilities** across both **technical systems and human behavior**, enabling learners to:
 
+Understanding user behavior in relation to Information Technologies and proposing measures to increase the [**security of operations**](), combining information security, distributed systems, data analysis and real-world scenarios of cybersecurity and social engineering
+
+ <br>
+
+This course includes **extension activities**:
+
+- [**Extension workload:**]() 20 hours, with at least **6 hours in external/community activities**.
+- [**Modality:**]() Courses and workshops.  
+- All students participate in the extension activity.
+
+<br>
+
+The course aims to develop a **comprehensive understanding of vulnerabilities** across both **technical systems and human behavior**, enabling learners to:
 
 [-]()  Master **core cybersecurity principles** and architectures.<br>
 [-]()  Identify + mitigate **social engineering threats** (phishing, pretexting).<br>
