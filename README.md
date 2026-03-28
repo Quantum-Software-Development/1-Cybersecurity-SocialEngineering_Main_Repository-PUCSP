@@ -6,22 +6,18 @@
 <br><br>
 
 
-#  <p align="center"> 1- 🔐 [Cybersecurity and Social Engineering ]() / [Main Repository]()
+#  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Main Repository]()
+###  <p align="center"> Applied Data Science, Web Intelligence and Threat Analysis @ PUC-SP
 
- ><br>
+ <br>
+
+[**PUC-SP has recently established a dedicated Bloomberg Laboratory on campus**](), providing access to Bloomberg’s professional financial infrastructure, including terminals, datasets, and APIs.
+
+This enables the integration of **real-world financial data** into cybersecurity, OSINT, and data intelligence applications.
+
+<br>
 
 
-[**Main Repository Hub**]() for the course [**“Cybersecurity and Social Engineering”**]() within the [**Data Science and Humanistic Artificial Intelligence**]() program at [**PUC-SP (FACEI, 5th semester)**]().
-
-This repository is focused on [**cybersecurity, social engineering, distributed systems, APIs, data analysis, and applied extension projects leveraging Web Services and Machine Learning**]().
-
-It integrates [**theoretical foundations with hands-on practice**](), providing a comprehensive learning environment that bridges academic knowledge and real-world application. Topics include cybersecurity, social engineering, distributed architectures, API ecosystems, and data-driven intelligence.
-
-The repository features **hands-on labs, ethical hacking simulations, AI-driven security practices, threat analysis, and applied defense strategies**, all aligned with contemporary challenges in [**cyber risk, artificial intelligence, and intelligent systems**]().
-
-Additionally, [**PUC-SP**]() is an institutional partner of [**Bloomberg**]() and hosts a dedicated Bloomberg Laboratory on campus. This infrastructure provides access to [**Bloomberg data, terminals, and APIs**]() for both students and faculty.
-
-This repository also documents **academic and extension projects** that integrate [**Bloomberg APIs with public data sources**]() (such as the Central Bank of Brazil), supporting use cases in **cybersecurity, financial intelligence, and OSINT-oriented analysis**.
 
 
 <br><br>
