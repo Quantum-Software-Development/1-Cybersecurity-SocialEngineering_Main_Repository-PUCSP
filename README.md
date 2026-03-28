@@ -180,12 +180,12 @@ Enable students to **understand, model and analyze information systems and data*
 
 By the end of the course, students should be able to:
 
-- Understand **information security problems** and propose mitigation measures related to user behavior and project management. 
-- Understand **distributed systems**, client–server architecture, HTTP servers and **REST/JSON APIs**.  
-- Apply the **CRISP‑DM** process to data projects related to cybersecurity and social engineering. 
-- Consume **Web Services / APIs**, process data and create visualizations (NumPy, Pandas, Plotly, Seaborn, etc.).  
-- Understand **Big Data, NoSQL, Hadoop and Spark** and their role in large-scale data processing in security scenarios. 
-- Develop and present **group projects** involving data acquisition, processing, visualization and prediction from Web Services.
+[-]()  Understand [**information security problems**]() and propose mitigation measures related to user behavior and project management. 
+[-]()  Understand [**distributed systems**](), client–server architecture, HTTP servers and **REST/JSON APIs**.  
+[-]()  Apply the [**CRISP‑DM**]() process to data projects related to cybersecurity and social engineering. 
+[-]()  Consume [**Web Services / APIs**](), process data and create visualizations (NumPy, Pandas, Plotly, Seaborn, etc.).  
+[-]()  Understand [**Big Data, NoSQL, Hadoop and Spark**]() and their role in large-scale data processing in security scenarios. 
+[-]()  Develop and present **group projects** involving data acquisition, processing, visualization and prediction from Web Services.
 
 
 <br><br>
