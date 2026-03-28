@@ -244,37 +244,26 @@ The group selects a market or social domain and develops the following steps:
 [6.]()  Apply **AI / ML techniques** to generate predictions when possible. 
 
 
+<br>
 
+[**Deliverables for Stage 1:**]()
 
-<br><br>
+<br>
 
+[-]() Notebook (Colab/Jupyter) with all code used in the project.  
+[-]() Data set (if applicable).  
+[-]() SQL database dump.  
+[-]() PDF report covering:  
+  [-]() Team members.  
+  [-]() Project topic.  
+  [-]() General and specific objectives.  
+  [-]() APIs and data sources used.  
+  [-]() SQL database structure (tables/fields or ER diagram) and dump.  
+  [-]() Explanation of analyses and plots in relation to the objectives.  
+  [-]() Explanation of AI techniques used for prediction and their relation to the objectives.[file:2]  
+[-]() Presentation (.pptx) summarizing the report.[file:2]  
 
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br>
-
-
- ## [Extension \& Applied Projects / Repositories]()
-
- <br>
-
-| [Project]() | [Description]() | [Status]() |
-| :-- | :-- | :-- |
-| [Phishing Detector]() | Machine Learning model to detect fraudulent emails | Coming Soon |
-| [Social Engineering Simulator]() | Awareness training simulation | Coming Soon |
-| [AI Security Toolkit]() | Monitoring and protection utilities | Coming Soon |
-| [CTF Challenges]() | Capture The Flag exercises | Coming Soon |
-
+This stage already counts towards the [**20 extension hours**](0, as it uses real or open data APIs in contexts of market or social interest.
 
 <br>
 
@@ -282,8 +271,6 @@ The group selects a market or social domain and develops the following steps:
 > 
 > Projects are structured to be publicly documented and version-controlled. <br>
 > 
-
-
 
 <br><br>
 
