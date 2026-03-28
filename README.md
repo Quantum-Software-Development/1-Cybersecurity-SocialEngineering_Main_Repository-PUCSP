@@ -275,7 +275,7 @@ This stage already counts towards the [**20 extension hours**](0, as it uses rea
 <br><br>
 
 
-### [**]Stage 2**]() – RESTful API Built on a SQL Database (Extension Requirement)
+### [**Stage 2**]() – RESTful API Built on a SQL Database (Extension Requirement)
 
 The **second subproject** in the briefing explicitly requires building an API:
 
