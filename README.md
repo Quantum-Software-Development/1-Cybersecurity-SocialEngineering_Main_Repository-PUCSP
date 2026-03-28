@@ -224,13 +224,15 @@ By the end of the course, students should be able to:
 ## [Official Extension Project (Project Integrator 1 – 2 Subprojects)]()
 
 
+The [**official extension project**]() of this course is **Project Integrator 1 (March–April)** described in the briefing [**“Data Analysis for Knowledge Extraction and Prediction using Web Services”**]().
 
-The **official extension project** of this course is **Project Integrator 1 (March–April)** described in the briefing **“Análise de Dados para conhecimento e predição a partir de webservice”**.[file:2]  
 It is composed of **two subprojects (two stages)** that together satisfy the extension requirements.
 
-### Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction
+<br>
 
-**Theme:** “Consuming APIs for data analysis” – using Web Services for **knowledge and prediction** based on remote data  
+### [Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction]()
+
+[**Theme:**]() “Consuming APIs for data analysis” – using Web Services for [**knowledge and prediction**]() based on remote data  
 
 The group selects a market or social domain and develops the following steps:
 
