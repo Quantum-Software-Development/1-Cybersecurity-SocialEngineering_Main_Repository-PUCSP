@@ -232,9 +232,17 @@ It is composed of **two subprojects (two stages)** that together satisfy the ext
 
 ### [Stage 1 – Consuming Third‑Party APIs, Dashboards and Prediction]()
 
-[**Theme:**]() “Consuming APIs for data analysis” – using Web Services for [**knowledge and prediction**]() based on remote data  
+[**Theme:**]() “Consuming APIs for data analysis” – using Web Services for [**knowledge and prediction**]() based on remote data.  
 
 The group selects a market or social domain and develops the following steps:
+
+[1.]() Identify APIs of interest that provide data suitable for analysis and prediction.  
+[2.]()  Consume the APIs and generate in‑memory data tables.  
+[3.]()  Process the data applying filters, aggregations and totals.  
+[4.]()  Store filtered data in a **SQL database**.  
+[5.]()  Develop a **dashboard** to present the results.  
+[6.]()  Apply **AI / ML techniques** to generate predictions when possible. 
+
 
 
 
