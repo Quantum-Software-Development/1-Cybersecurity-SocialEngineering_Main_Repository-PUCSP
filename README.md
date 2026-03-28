@@ -166,17 +166,36 @@ With a strong focus on [**AI-driven environments and emerging risks**]().
 <br><br>
 
 
-## [Core Learning Pillars]()
+## [Learning Objectives]()
 
 <br>
 
-| **Pillar** | **Technical Focus** | **Applied Outcome** | **Kid Analogy** |
-|------------|-------------------|-------------------|-----------------|
-| **Cybersecurity Foundations** | Encryption, IDS/IPS, firewalls | Infrastructure protection | Digital castle walls |
-| **Social Engineering** | Phishing, pretexting, baiting | Human risk mitigation | Tricking the guards |
-| **AI Security** | Adversarial ML, model poisoning | Secure ML pipelines | Poisoning the well |
-| **Ethical Hacking** | Penetration testing, CTF | Attack simulation | Friendly spy games |
-| **Pillar** | **Technical Focus** | **Applied Outcome** | **Kid Analogy** |
+### [-]() General objective
+
+Enable students to **understand, model and analyze information systems and data** in security-related contexts, identifying vulnerabilities, risks and protection strategies, grounded in database, distributed systems and cybersecurity concepts.
+
+<br>
+
+### [-]() Specific objectives
+
+By the end of the course, students should be able to:
+
+- Understand **information security problems** and propose mitigation measures related to user behavior and project management. 
+- Understand **distributed systems**, client–server architecture, HTTP servers and **REST/JSON APIs**.  
+- Apply the **CRISP‑DM** process to data projects related to cybersecurity and social engineering. 
+- Consume **Web Services / APIs**, process data and create visualizations (NumPy, Pandas, Plotly, Seaborn, etc.).  
+- Understand **Big Data, NoSQL, Hadoop and Spark** and their role in large-scale data processing in security scenarios. 
+- Develop and present **group projects** involving data acquisition, processing, visualization and prediction from Web Services.
+
+
+<br><br>
+
+
+
+
+
+
+
 
 
 
