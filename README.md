@@ -301,11 +301,7 @@ The [**second subproject**]() in the briefing explicitly requires building an AP
 [-]() Integrate this API into the end‑to‑end workflow: external APIs → processing and storage in SQL → publication via your own REST API.[file:2] 
 
 
-
-
-
-
-<br><br>
+<br>
 
 > [!IMPORTANT]
 > 
