@@ -303,10 +303,24 @@ The [**second subproject**]() in the briefing explicitly requires building an AP
 
 ### 🎯[Main tasks:]()
 
+<br>
+
 [-]() Choose a real‑world context (company, NGO, market sector, social domain, etc.).  
 [-]() Design the **SQL database** with at least 3 tables and produce its dump.  
 [-]() Implement a **RESTful API** that exposes the processed and aggregated data required by the use case.  
-[-]() Integrate this API into the end‑to‑end workflow: external APIs → processing and storage in SQL → publication via your own REST API.[file:2] 
+[-]() Integrate this API into the end‑to‑end workflow: external APIs → processing and storage in SQL → publication via your own REST API.
+
+
+<br>
+
+### ⚡️ Planned internal structure 
+
+<br>
+
+- `extension_official/stage2_rest_api_sql/`  
+  - SQL schema (DDL + ER/diagram).  
+  - RESTful API implementation (e.g., FastAPI, Flask, Django REST).  
+  - Documentation of endpoints, input parameters, response formats and basic security considerations.  
 
 
 <br>
