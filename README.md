@@ -239,9 +239,9 @@ The group selects a market or social domain and develops the following steps:
 [1.]() Identify APIs of interest that provide data suitable for analysis and prediction.  
 [2.]()  Consume the APIs and generate in‑memory data tables.  
 [3.]()  Process the data applying filters, aggregations and totals.  
-[4.]()  Store filtered data in a **SQL database**.  
-[5.]()  Develop a **dashboard** to present the results.  
-[6.]()  Apply **AI / ML techniques** to generate predictions when possible. 
+[4.]()  Store filtered data in a [**SQL database**]().  
+[5.]()  Develop a [**dashboard**]() to present the results.  
+[6.]()  Apply [**AI / ML techniques**]() to generate predictions when possible. 
 
 
 <br>
@@ -291,11 +291,24 @@ The [**second subproject**]() in the briefing explicitly requires building an AP
 [**Objective:**]() design and implement a **SQL database (≥ 3 tables)** and expose the processed/aggregated data through a **RESTful Web Service**.
 
 
+Main tasks:[file:2]  
+
+- Choose a real‑world context (company, NGO, market sector, social domain, etc.).  
+- Design the **SQL database** with at least 3 tables and produce its dump.  
+- Implement a **RESTful API** that exposes the processed and aggregated data required by the use case.  
+- Integrate this API into the end‑to‑end workflow: external APIs → processing and storage in SQL → publication via your own REST API.[file:2] 
 
 
 
+<br>
+
+> [!IMPORTANT]
+> 
+> Projects are structured to be publicly documented and version-controlled. <br>
+> 
 
 
+<br><br>
 
 
 
