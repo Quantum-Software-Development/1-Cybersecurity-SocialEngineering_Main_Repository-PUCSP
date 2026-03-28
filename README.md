@@ -113,7 +113,20 @@ This enables the integration of **real-world financial data** into cybersecurity
 
 <br><br>
 
+## [Overview]()
 
+<br>
+
+This repository defines a **data-driven cybersecurity framework** integrating:
+
+[-]() Cybersecurity and social engineering  
+[-]() Artificial intelligence and anomaly detection  
+[-]() Web Services and distributed systems  
+[-]() Financial and OSINT-based intelligence  
+
+It connects theory and practice through **real-world data pipelines and secure architectures**.
+
+<br><br>
 
 
 
