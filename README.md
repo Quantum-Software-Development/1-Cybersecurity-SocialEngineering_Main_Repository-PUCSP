@@ -94,7 +94,7 @@ It features hands-on labs, ethical hacking simulations, AI-driven security pract
 ## Table of Contents
 
 - [Course Overview](#course-overview)
-- [Objective]()(#objective)
+- [Objective](#objective)
 - [Learning Objectives](#learning-objectives)
 - [Weekly Roadmap (Programmatic Content)](#weekly-roadmap-programmatic-content)
 - [Official Extension Project (Project Integrator 1 – 2 Subprojects)](#official-extension-project-project-integrator-1--2-subprojects)
