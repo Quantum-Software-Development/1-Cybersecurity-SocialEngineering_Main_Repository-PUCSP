@@ -141,7 +141,7 @@ Understanding user behavior in relation to Information Technologies and proposin
 
  <br>
 
-This course includes **extension activities**:
+This course includes [**extension activities**:]()
 
 - [**Extension workload:**]() 20 hours, with at least **6 hours in external/community activities**.
 - [**Modality:**]() Courses and workshops.  
@@ -234,6 +234,10 @@ It is composed of **two subprojects (two stages)** that together satisfy the ext
 
 [**Theme:**]() “Consuming APIs for data analysis” – using Web Services for [**knowledge and prediction**]() based on remote data.  
 
+
+
+### 🎯[Main tasks:]()
+
 The group selects a market or social domain and develops the following steps:
 
 [1.]() Identify APIs of interest that provide data suitable for analysis and prediction.  
@@ -263,14 +267,16 @@ The group selects a market or social domain and develops the following steps:
   [-]() Explanation of AI techniques used for prediction and their relation to the objectives.[file:2]  
 [-]() Presentation (.pptx) summarizing the report.[file:2]  
 
-This stage already counts towards the [**20 extension hours**](0, as it uses real or open data APIs in contexts of market or social interest.
 
 <br>
 
 > [!IMPORTANT]
-> 
-> Projects are structured to be publicly documented and version-controlled. <br>
-> 
+>
+>  ⚠️  Projects are structured to be publicly documented and version-controlled. <br>
+>
+> This stage already counts towards the [**20 extension hours**](0, as it uses real or open data APIs in contexts of market or social interest. <br>
+>
+  
 
 
 <br>
@@ -278,6 +284,8 @@ This stage already counts towards the [**20 extension hours**](0, as it uses rea
 #
 
 <br>
+
+
 
 
 ### [**Stage 2**]() – RESTful API Built on a SQL Database (Extension Requirement)
@@ -305,7 +313,7 @@ The [**second subproject**]() in the briefing explicitly requires building an AP
 
 > [!IMPORTANT]
 > 
-> Projects are structured to be publicly documented and version-controlled. <br>
+>  ⚠️ Projects are structured to be publicly documented and version-controlled. <br>
 > 
 
 
