@@ -246,7 +246,7 @@ The group selects a market or social domain and develops the following steps:
 
 <br>
 
-[**Deliverables for Stage 1:**]()
+### ⚡️ [**Deliverables for Stage 1:**]()
 
 <br>
 
@@ -291,16 +291,21 @@ The [**second subproject**]() in the briefing explicitly requires building an AP
 [**Objective:**]() design and implement a **SQL database (≥ 3 tables)** and expose the processed/aggregated data through a **RESTful Web Service**.
 
 
-Main tasks:[file:2]  
-
-- Choose a real‑world context (company, NGO, market sector, social domain, etc.).  
-- Design the **SQL database** with at least 3 tables and produce its dump.  
-- Implement a **RESTful API** that exposes the processed and aggregated data required by the use case.  
-- Integrate this API into the end‑to‑end workflow: external APIs → processing and storage in SQL → publication via your own REST API.[file:2] 
-
-
-
 <br>
+
+### 🎯[Main tasks:]()
+
+[-]() Choose a real‑world context (company, NGO, market sector, social domain, etc.).  
+[-]() Design the **SQL database** with at least 3 tables and produce its dump.  
+[-]() Implement a **RESTful API** that exposes the processed and aggregated data required by the use case.  
+[-]() Integrate this API into the end‑to‑end workflow: external APIs → processing and storage in SQL → publication via your own REST API.[file:2] 
+
+
+
+
+
+
+<br><br>
 
 > [!IMPORTANT]
 > 
