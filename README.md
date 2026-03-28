@@ -93,7 +93,7 @@ It features hands-on labs, ethical hacking simulations, AI-driven security pract
 
 ## Table of Contents
 
-- [Course Information](#course-information)
+- [Course Overview](#course-overview)
 - [Syllabus (Short Version)](#syllabus-short-version)
 - [Learning Objectives](#learning-objectives)
 - [Weekly Roadmap (Programmatic Content)](#weekly-roadmap-programmatic-content)
