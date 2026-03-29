@@ -13,6 +13,17 @@
 <br><br>
 
 
+<!-- PUC HEADER GIF -->
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
+ </p>
+
+
+<br><br>
+
+
+
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue?logo=python)
@@ -32,15 +43,6 @@ The environment is supported by a recently established [Bloomberg Laboratory at 
 
 The project is structured around a complete data pipeline, including data ingestion from external APIs, transformation, storage in relational databases, and exposure through RESTful services, combined with predictive modeling and anomaly detection.
 
-<br><br>
-
-
-
-<!-- PUC HEADER GIF -->
-
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
- </p>
 
 
 <br><br>
@@ -51,9 +53,8 @@ The project is structured around a complete data pipeline, including data ingest
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
-
-
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+
 
 <br><br>
 
