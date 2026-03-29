@@ -13,6 +13,16 @@
 <br><br>
 
 
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue?logo=python)
+![API](https://img.shields.io/badge/API-REST-green)
+![Security](https://img.shields.io/badge/Security-Zero%20Trust-red)
+![ML](https://img.shields.io/badge/Machine%20Learning-AI-purple)
+![Bloomberg](https://img.shields.io/badge/Data-Bloomberg%20Lab-orange)
+
+</p>
+
 
 ## [Abstract]()
 
