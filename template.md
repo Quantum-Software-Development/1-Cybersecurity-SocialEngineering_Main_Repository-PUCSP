@@ -1,4 +1,5 @@
 
+
 <br>
 
 **\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]**
@@ -6,7 +7,7 @@
 <br><br>
 
 
-#  <p align="center">  X - 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [XXXXXX]()
+#  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Main Hub Repository]()
 ###  <p align="center"> A Data-Driven Approach Integrating Web Services, Machine Learning, and Financial Data Infrastructure
 
  
@@ -35,11 +36,11 @@
 ## [Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)]()
 
 
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
-[**School:**]() FACEI - Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: Cybersecurity and Social Engineering  - 72 Hours <br>
-**Professor:**  [✨  Eduardo Savino Gomes]()  <br>
-[Extensionist Activities:]() Social projects with open-source software for community support.  <br>
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC‑SP – Humanistic AI & Data Science • 5º Semester • 2026)  <br>
+[**School:**]() FACEI – Faculty of Interdisciplinary Studies  <br>
+[**Course Repo:**]() INTEGRATED PROJECT: Cybersecurity and Social Engineering – 108 Hours  <br>
+**Professor:** [✨ Eduardo Savino Gomes]()  <br>
+[**Extensionist Activities:**]() Extension projects and workshops using open‑source software and data‑driven consulting to support the community, aligned with the 20 official extension hours of the course.
 
 
 <br><br><br>
@@ -54,13 +55,32 @@
   <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-00CED1" />
 </p>
 
-<!--Confidentiality statement -->
+
+<br><br>
+
+#
+
+<br><br>
 
 
-<br><br><br>
+
+<!-- ========= START Repo Introductio ========= -->
+XXXXXXXXXXXX
+
+<br>
+
+XXXXXXXXXXXX
+
+<br><br>
+
+#
+
+<br><br>
+<!-- ========= END Repo Introductio ========= -->
 
 
 
+<!-- ========= START Confidentiality statement ========= -->
 > [!NOTE]
 > 
 > ⚠️ Heads Up
@@ -77,13 +97,12 @@
 >
 
 
-
 <br><br>
 
 #
 
-<br>
-
+<br><br>
+<!-- ========= END Confidentiality statement  ========= -->
 
 
 
