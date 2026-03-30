@@ -1,5 +1,4 @@
 
-
 <br>
 
 **\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]**
@@ -7,16 +6,22 @@
 <br><br>
 
 
-#  <p align="center"> XXX - 🔐 [Cybersecurity and Social Engineering ]() / [XXXX]()
+#  <p align="center">  X - 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [XXXXXX]()
+###  <p align="center"> A Data-Driven Approach Integrating Web Services, Machine Learning, and Financial Data Infrastructure
 
  
-###  Main repository for the **PUC-SP 5th Semester Academic Hub (2026)** — focused on **Cybersecurity & Social Engineering**, featuring hands-on labs, ethical hacking simulations, AI security practices, threat analysis, and applied defense strategies aligned with real-world security scenarios. 
-
-
-
 <br><br>
 
 
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+
+
+ 
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br><br>
 
 <!-- PUC HEADER GIF -->
 
@@ -27,14 +32,7 @@
 
 <br><br>
 
-
-
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-<br><br>
-
-### Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)
+## [Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)]()
 
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
@@ -43,20 +41,25 @@
 **Professor:**  [✨  Eduardo Savino Gomes]()  <br>
 [Extensionist Activities:]() Social projects with open-source software for community support.  <br>
 
-<br><br>
+
+<br><br><br>
 
 
- <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
-
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-007ACC?logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/API-REST-00A676" />
+  <img src="https://img.shields.io/badge/Security-Zero%20Trust-008B8B" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-AI-20B2AA" />
+  <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-00CED1" />
+</p>
 
 <!--Confidentiality statement -->
 
-#
 
 <br><br><br>
+
+
 
 > [!NOTE]
 > 
@@ -79,16 +82,7 @@
 
 #
 
-<!--END Confidentiality statement -->
-
-
-<br><br><br>
-
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-
-
+<br>
 
 
 
@@ -158,6 +152,83 @@
 
 
 <!-- ======================================= End  DEFAULT Footer ===========================================  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
