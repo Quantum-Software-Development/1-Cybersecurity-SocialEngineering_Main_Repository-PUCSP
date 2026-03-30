@@ -54,11 +54,20 @@
   <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-00CED1" />
 </p>
 
-<!--Confidentiality statement -->
+
+<br><br><br>
+
+
+Main [**Hub Repository**]() for the course **“Segurança Cibernética e Engenharia Social”** of the [**Data Science and Artificial Intelligence**]() program at PUC‑SP (FACEI, 5th semester), centralizing documentation and links to related project repositories focused on cybersecurity, social engineering, distributed systems, APIs, data analysis, and applied extension projects using Web Services and Machine Learning.
+
+PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated Bloomberg laboratory on campus, which provides access to Bloomberg data, terminals and APIs for students and faculty. This repository documents projects that make academic use of Bloomberg APIs together with public data sources (such as the Central Bank of Brazil) in the context of cybersecurity, financial intelligence and OSINT‑oriented analysis.
+
 
 
 <br><br><br>
 
+
+<!--Confidentiality statement -->
 
 
 > [!NOTE]
