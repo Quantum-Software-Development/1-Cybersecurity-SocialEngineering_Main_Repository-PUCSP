@@ -84,264 +84,6 @@
 
 <br>
 
-<!--END Confidentiality statement -->
-
-
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- DETAILED=========
-
-
-
-##  [Course Overview]()
-
-This repository serves as the [**central academic and practical hub**]() for a course in [**Cybersecurity, Social Engineering, AI System Protection, and Ethical Hacking**]().
-
-It is designed to integrate [**theoretical foundations, applied methodologies, and real-world perspectives**](), preparing learners for modern security challenges.
-
-
-
-<br><br>
-
-
-##  [Core Areas]()
-
--  [**Cybersecurity Foundations**]() — principles, threats, and defense strategies  
--  [**Social Engineering**]() — human factors, persuasion, and attack vectors  
--  [**AI System Protection**]() — securing intelligent systems and mitigating adversarial risks  
--  [**Ethical Hacking**]() — penetration testing concepts and responsible exploitation  
-
-
-<br><br>
-
-
-##  [Objective]()
-
-
-Understanding user behavior in relation to Information Technologies and proposing measures to increase the [**security of operations**](), combining information security, distributed systems, data analysis and real-world scenarios of cybersecurity and social engineering
-
- <br>
-
-This course includes [**extension activities**:]()
-
-- [**Extension workload:**]() 20 hours, with at least **6 hours in external/community activities**.
-- [**Modality:**]() Courses and workshops.  
-- All students participate in the extension activity.
-
-<br>
-
-The course aims to develop a **comprehensive understanding of vulnerabilities** across both **technical systems and human behavior**, enabling learners to:
-
-[-]()  Master **core cybersecurity principles** and architectures.<br>
-[-]()  Identify + mitigate **social engineering threats** (phishing, pretexting).<br>
-[-]()  Protect **AI/ML systems** against adversarial attacks + model poisoning.<br>
-[-]()  Apply **encryption + authentication** mechanisms correctly.<br>
-[-]()  Conduct **ethical security testing** (penetration testing, CTF).<br>
-[-]()  Design **defensive strategies** aligned with AI ethics standards.<br>
-
-<br>
-
-With a strong focus on [**AI-driven environments and emerging risks**]().     
-
-
-<br><br>
-
-
-## [Learning Objectives]()
-
-<br>
-
-### [-]() General objective
-
-Enable students to **understand, model and analyze information systems and data** in security-related contexts, identifying vulnerabilities, risks and protection strategies, grounded in database, distributed systems and cybersecurity concepts.
-
-<br>
-
-### [-]() Specific objectives
-
-By the end of the course, students should be able to:
-
-[-]()  Understand [**information security problems**]() and propose mitigation measures related to user behavior and project management. 
-[-]()  Understand [**distributed systems**](), client–server architecture, HTTP servers and [**REST/JSON APIs**]().  
-[-]()  Apply the [**CRISP‑DM**]() process to data projects related to cybersecurity and social engineering. 
-[-]()  Consume [**Web Services / APIs**](), process data and create visualizations (NumPy, Pandas, Plotly, Seaborn, etc.).  
-[-]()  Understand [**Big Data, NoSQL, Hadoop and Spark**]() and their role in large-scale data processing in security scenarios. 
-[-]()  Develop and present [**group projects**]() involving data acquisition, processing, visualization and prediction from Web Services.
-
-
-<br><br>
-
-
-## [Weekly Roadmap (Programmatic Content)]()
-
-<br>
-
-| [Week]() | [Topics]() | [Notes]() |
-|------|--------|-------|
-| 1 | [Course introduction, bibliography, grading criteria, **information security problems**, project management.]() | Opening and context. |
-| 2 | [**Distributed systems concepts**, client–server architecture, HTTP server, REST architecture and JSON format.]() | Technical foundations. |
-| 3 | [**CRISP‑DM** process.]() | Data mining methodology. |
-| 4 | [RapidAPI platform introduction; testing APIs; each group selects an API to consume and generate plots.]() | Start of API-based project.|
-| 5 | [Project support (API + data analysis).]() | Follow-up. |
-| 6 | Consuming Web Services, generating plots; review of NumPy, Pandas, Plotly, Seaborn etc. | Tools review. |
-| 7 | Building dashboards in Python. | Dashboard construction. |
-| 8 | Group presentations of the WebService project. | 1st project evaluation.|
-| 9 | Presentation of the **final project statement** (counting words in websites and/or social networks about a chosen theme). | Launch of final project. |
-| 10 | Big Data concepts. | Theory. |
-| 11 | NoSQL databases. | Non-relational models.|
-| 12 | Hadoop ecosystem. | Distributed processing. |
-| 13 | Spark. | Big Data processing. |
-| 14 | Spark (continuation). | Applications. |
-| 15 | Developing the final project. | Group work. |
-| 16 | Developing the final project. | Group work.|
-| 17 | Developing the final project. | Group work. |
-| 18 | Final project presentations (groups). | 2nd project evaluation
-
-
-
-<br><br>
-
-
-## [Official Extension Project (Project Integrator 1 – 2 Subprojects)]()
-
-
-The [**official extension project**]() of this course is **Project Integrator 1 (March–April)** described in the briefing [**“Data Analysis for Knowledge Extraction and Prediction using Web Services”**]().
-
-It is composed of **two subprojects (two stages)** that together satisfy the extension requirements.
-
-<br>
-
-### [**Stage 1**]() – Consuming Third‑Party APIs, Dashboards and Prediction
-
-[**Theme:**]() “Consuming APIs for data analysis” – using Web Services for [**knowledge and prediction**]() based on remote data.  
-
-
-
-### 🎯[Main tasks:]()
-
-The group selects a market or social domain and develops the following steps:
-
-[1.]() Identify APIs of interest that provide data suitable for analysis and prediction.  
-[2.]()  Consume the APIs and generate in‑memory data tables.  
-[3.]()  Process the data applying filters, aggregations and totals.  
-[4.]()  Store filtered data in a [**SQL database**]().  
-[5.]()  Develop a [**dashboard**]() to present the results.  
-[6.]()  Apply [**AI / ML techniques**]() to generate predictions when possible. 
-
-
-<br>
-
-### ⚡️ [**Deliverables for Stage 1:**]()
-
-<br>
-
-[-]() Notebook (Colab/Jupyter) with all code used in the project.  
-[-]() Data set (if applicable).  
-[-]() SQL database dump.  
-[-]() PDF report covering:  
-  [-]() Team members.  
-  [-]() Project topic.  
-  [-]() General and specific objectives.  
-  [-]() APIs and data sources used.  
-  [-]() SQL database structure (tables/fields or ER diagram) and dump.  
-  [-]() Explanation of analyses and plots in relation to the objectives.  
-  [-]() Explanation of AI techniques used for prediction and their relation to the objectives.[file:2]  
-[-]() Presentation (.pptx) summarizing the report.[file:2]  
-
-
-<br>
-
-> [!IMPORTANT]
->
->  ⚠️  Projects are structured to be publicly documented and version-controlled. <br>
->
-> This stage already counts towards the [**20 extension hours**](0, as it uses real or open data APIs in contexts of market or social interest. <br>
->
-  
-
-
-<br>
-
-#
-
-<br>
-
-
-
-
-### [**Stage 2**]() – RESTful API Built on a SQL Database (Extension Requirement)
-
-<br>
-
-The [**second subproject**]() in the briefing explicitly requires building an API:
-
-[**Theme:**:]() “Develop an API using the RESTful architecture from a SQL database, considering any real context with at least 3 (three) tables.”[file:2]
-
-[**Objective:**]() design and implement a **SQL database (≥ 3 tables)** and expose the processed/aggregated data through a **RESTful Web Service**.
-
-
-<br>
-
-### 🎯[Main tasks:]()
-
-<br>
-
-[-]() Choose a real‑world context (company, NGO, market sector, social domain, etc.).  
-[-]() Design the **SQL database** with at least 3 tables and produce its dump.  
-[-]() Implement a **RESTful API** that exposes the processed and aggregated data required by the use case.  
-[-]() Integrate this API into the end‑to‑end workflow: external APIs → processing and storage in SQL → publication via your own REST API.
-
-
-<br>
-
-### ⚡️ [Planned internal structure]()
-
-<br>
-
-- `extension_official/stage2_rest_api_sql/`  
-  - SQL schema (DDL + ER/diagram).  
-  - RESTful API implementation (e.g., FastAPI, Flask, Django REST).  
-  - Documentation of endpoints, input parameters, response formats and basic security considerations.  
-
-
-<br>
-
-> [!IMPORTANT]
-> 
->  ⚠️ Projects are structured to be publicly documented and version-controlled. <br>
->
-> Together, **Stage 1 + Stage 2** form the official **extension project agreed with the professor**, covering APIs, data pipelines, SQL design and RESTful Web Services.<br>
->
-
-<br><br>
-
-
-## [Related Projects]()
-
-In addition to the official extension project, this repository may host **extra projects related to cybersecurity, OSINT and data engineering**.  
-These are related to the discipline, but **not formally part of the extension agreement**.
-
---->
-
-
-
-
-
-
-
 
 
 
@@ -432,20 +174,29 @@ These are related to the discipline, but **not formally part of the extension ag
 
 
 
-###  [Objective]()
-
-The course aims to develop a **comprehensive understanding of vulnerabilities** across both **technical systems and human behavior**, enabling learners to:
-
-[-]()  Identify and analyze security weaknesses  
-[-]()  Understand attack methodologies  
-[-]()  Anticipate complex threat scenarios  
-[-]()  Design and implement effective defensive solutions  
-
-with a strong focus on [**AI-driven environments and emerging risks**]().
 
 
 
-<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -554,6 +305,70 @@ with a strong focus on [**AI-driven environments and emerging risks**]().
 
 
 <!-- ======================================= End  DEFAULT Footer ===========================================  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
