@@ -35,11 +35,11 @@
 ## [Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)]()
 
 
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
-[**School:**]() FACEI - Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: Cybersecurity and Social Engineering  - 72 Hours <br>
-**Professor:**  [✨  Eduardo Savino Gomes]()  <br>
-[Extensionist Activities:]() Social projects with open-source software for community support.  <br>
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC‑SP – Humanistic AI & Data Science • 5º Semester • 2026)  <br>
+[**School:**]() FACEI – Faculty of Interdisciplinary Studies  <br>
+[**Course Repo:**]() INTEGRATED PROJECT: Cybersecurity and Social Engineering – 108 Hours  <br>
+**Professor:** [✨ Eduardo Savino Gomes]()  <br>
+[**Extensionist Activities:**]() Extension projects and workshops using open‑source software and data‑driven consulting to support the community, aligned with the 20 official extension hours of the course.
 
 
 <br><br><br>
