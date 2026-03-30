@@ -55,7 +55,11 @@
 </p>
 
 
-<br><br><br>
+<br><br>
+
+#
+
+<br>
 
 
 Main [**Hub Repository**]() for the course **“Segurança Cibernética e Engenharia Social”** of the [**Data Science and Artificial Intelligence**]() program at PUC‑SP (FACEI, 5th semester), centralizing documentation and links to related project repositories focused on cybersecurity, social engineering, distributed systems, APIs, data analysis, and applied extension projects using Web Services and Machine Learning.
@@ -64,7 +68,11 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 
 
 
-<br><br><br>
+<br><br>
+
+#
+
+<br>
 
 
 <!--Confidentiality statement -->
