@@ -47,9 +47,13 @@
 
 
 
-
-<p align="center"><img src="https://img.shields.io/badge/Python-Data%20Science-blue?logo=python" /> <img src="https://img.shields.io/badge/API-REST-green" /> <img src="https://img.shields.io/badge/Security-Zero%20Trust-red" /> <img src="https://img.shields.io/badge/Machine%20Learning-AI-purple" /> <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-orange" /></p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-007ACC?logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/API-REST-00A676" />
+  <img src="https://img.shields.io/badge/Security-Zero%20Trust-008B8B" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-AI-20B2AA" />
+  <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-00CED1" />
+</p>
 
 <!--Confidentiality statement -->
 
