@@ -39,7 +39,7 @@
 <!-- =========  END PUC HEADER GIF ========= -->
 
 
-
+<!-- ========= START Institucional INFO ========= -->
 ## [Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)]()
 
 
@@ -49,8 +49,9 @@
 **Professor:** [✨ Eduardo Savino Gomes]()  <br>
 [**Extensionist Activities:**]() Extension projects and workshops using open‑source software and data‑driven consulting to support the community, aligned with the 20 official extension hours of the course.
 
-
 <br><br><br>
+<!-- ========= END Institucional INFO ========= -->
+
 
 
 <!-- ========= START BADGES ========= -->
