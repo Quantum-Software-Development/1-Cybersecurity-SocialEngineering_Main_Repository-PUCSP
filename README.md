@@ -1,12 +1,14 @@
 
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+<!-- ======================================= ⚡️ Start DEFAULT HEADER ===========================================  -->
 
 
+<!-- ========= START LANGUAGE BUTTON ========= -->
 <br>
 
 **\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]**
 
 <br><br>
+<!-- ========= END LANGUAGE BUTTON ========= -->
 
 
 
@@ -111,7 +113,7 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 <!-- ========= END Confidentiality statement  ========= -->
 
 
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
 
 
 
