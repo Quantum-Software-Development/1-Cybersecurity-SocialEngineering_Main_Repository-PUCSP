@@ -6,32 +6,32 @@
 
 <br><br>
 
-
+ 
 #  <p align="center"> 1- 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Main Hub Repository]()
 ###  <p align="center"> A Data-Driven Approach Integrating Web Services, Machine Learning, and Financial Data Infrastructure
 
  
 <br><br>
 
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-
- 
+<!-- ========= Start SPONSORT BADGE ========= -->
  <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
-
 <br><br>
+<!-- ========= END SPONSORT BADGE ========= -->
 
-<!-- PUC HEADER GIF -->
 
+
+<!-- =========  START PUC HEADER GIF ========= -->
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
+<!-- =========  END PUC HEADER GIF ========= -->
 
 
 <br><br>
+
+
 
 ## [Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)]()
 
