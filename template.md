@@ -15,8 +15,8 @@
 
 
 <!-- ========= START REPO TITLE ========= -->
-#  <p align="center"> - 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [XXXXXX]()
-###  <p align="center"> A Data-Driven Approach Integrating Web Services, Machine Learning, and Financial Data Infrastructure
+#  <p align="center"> X - 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [XXXXXX]()
+###  <p align="center"> XXXXXXXXXXX
  
 <br><br>
 <!-- ========= START REPO TITLE ========= -->
@@ -43,6 +43,7 @@
 <!-- ========= START Institucional INFO ========= -->
 ## [Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)]()
 
+<br>
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC‑SP – Humanistic AI & Data Science • 5º Semester • 2026)  <br>
 [**School:**]() FACEI – Faculty of Interdisciplinary Studies  <br>
