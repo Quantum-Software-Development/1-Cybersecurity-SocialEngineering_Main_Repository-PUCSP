@@ -197,8 +197,8 @@ These core areas align with the official syllabus topics such as [information se
 |------|--------|-------|
 | 1 | Course introduction, bibliography, grading criteria, **information security problems**, project management. | Opening and context. |
 | 2 | **Distributed systems concepts**, client–server architecture, HTTP server, REST architecture and JSON format. | Technical foundations. |
-| 3 | Data project methodology (e.g., CRISP‑DM). | Data mining methodology.|
-| 4 | RapidAPI platform introduction; testing APIs; each group selects an API to consume and generate plots. | Start of API-based project. |
+| 3 | RapidAPI platform introduction; testing APIs; each group selects an API to consume and generate plots. | Start of API-based project. |
+| 4 | Data project methodology (e.g., CRISP‑DM). | Data mining methodology.|
 | 5 | Project support (API + data analysis). | Follow-up. |
 | 6 | Consuming Web Services, generating plots; review of NumPy, Pandas, Plotly, Seaborn etc. | Tools review.|
 | 7 | Building dashboards in Python. | Dashboard construction. |
