@@ -174,16 +174,16 @@ This creates a **rare academic environment** where cybersecurity, AI, and financ
 
 <br>
 
-- Cybersecurity Engineering  
-- Social Engineering Analysis  
-- AI Security & Adversarial Systems  
-- Ethical Hacking & Threat Modeling  
-- Data Science & Web Intelligence  
-- Distributed Systems & APIs
+[-]() Cybersecurity Engineering  
+[-]() Social Engineering Analysis  
+[-]() AI Security & Adversarial Systems  
+[-]() Ethical Hacking & Threat Modeling  
+[-]() Data Science & Web Intelligence  
+[-]() Distributed Systems & APIs
 
 <br>
 
-These core areas align with the official syllabus topics such as information security, distributed systems, Web Services, Big Data, NoSQL and Spark.[file:1
+These core areas align with the official syllabus topics such as information security, distributed systems, Web Services, Big Data, NoSQL and Spark.
 
 
 <br><br>
