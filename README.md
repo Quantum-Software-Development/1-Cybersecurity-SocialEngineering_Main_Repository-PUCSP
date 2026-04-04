@@ -143,15 +143,16 @@ PUC‑SP is an institutional partner of [**Bloomberg**]() and hosts a dedicated 
 
 This main hub repository represents a **complete cybersecurity and data intelligence framework**, integrating:
 
--  Cybersecurity and threat detection  
--  Social engineering and human behavior analysis  
--  Artificial intelligence and anomaly detection  
--  APIs, Web Services, and distributed systems  
--  Real‑world financial and OSINT data  
+[-]()  Cybersecurity and threat detection  
+[-]()  Social engineering and human behavior analysis  
+[-]()  Artificial intelligence and anomaly detection  
+[-]()  APIs, Web Services, and distributed systems  
+[-]()  Real‑world financial and OSINT data  
 
-Designed as an **end‑to‑end secure pipeline**, bridging academic knowledge with real‑world applications in the context of the course ***Cybersecurity and Social Engineering**
+Designed as an [**end‑to‑end secure pipeline**](), bridging academic knowledge with real‑world applications in the context of the course [**Cybersecurity and Social Engineering**]().
 
 
+<br><br>
 
 
 
