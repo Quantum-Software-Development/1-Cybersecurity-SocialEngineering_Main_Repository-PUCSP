@@ -183,7 +183,7 @@ This creates a **rare academic environment** where cybersecurity, AI, and financ
 
 <br>
 
-These core areas align with the official syllabus topics such as information security, distributed systems, Web Services, Big Data, NoSQL and Spark.
+These core areas align with the official syllabus topics such as [information security]() , [distributed systems]() , [Web Services]() , [Big Data]() , [NoSQL]()  and [Spark]() .
 
 
 <br><br>
