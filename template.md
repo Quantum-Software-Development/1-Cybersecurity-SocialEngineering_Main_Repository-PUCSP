@@ -1,294 +1,109 @@
-
-
-<!-- ======================================= ⚡️ Start DEFAULT HEADER ===========================================  -->
-
-
-<!-- ========= START LANGUAGE BUTTON ========= -->
-<br>
-
-**\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]**
-
-<br><br>
-<!-- ========= END LANGUAGE BUTTON ========= -->
-
-
-
-
-<!-- ========= START REPO TITLE ========= -->
-#  <p align="center"> X - 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [XXXXXX]()
-###  <p align="center"> XXXXXXXXXXX
- 
-<br><br>
-<!-- ========= START REPO TITLE ========= -->
-
-
-<!-- ========= START SPONSORT BADGE ========= -->
- <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
-<br><br>
-<!-- ========= END SPONSORT BADGE ========= -->
-
-
-
-<!-- =========  START PUC HEADER GIF ========= -->
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
- </p>
-
-<br><br>
-<!-- =========  END PUC HEADER GIF ========= -->
-
-
-<!-- ========= START Institucional INFO ========= -->
-## [Cybersecurity and Social Engineering Integrated Project - PUC-SP 5th Semester (2026)]()
-
-<br>
-
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC‑SP – Humanistic AI & Data Science • 5º Semester • 2026)  <br>
-[**School:**]() FACEI – Faculty of Interdisciplinary Studies  <br>
-[**Course Repo:**]() INTEGRATED PROJECT: Cybersecurity and Social Engineering – 108 Hours  <br>
-**Professor:** [✨ Eduardo Savino Gomes]()  <br>
-[**Extensionist Activities:**]() Extension projects and workshops using open‑source software and data‑driven consulting to support the community, aligned with the 20 official extension hours of the course.
-
-<br><br><br>
-<!-- ========= END Institucional INFO ========= -->
-
-
-
-<!-- ========= START BADGES ========= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Science-007ACC?logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/API-REST-00A676" />
-  <img src="https://img.shields.io/badge/Security-Zero%20Trust-008B8B" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-AI-20B2AA" />
-  <img src="https://img.shields.io/badge/Data-Bloomberg%20Lab-00CED1" />
-</p>
-
-
-<br><br>
-#
-
-<br><br>
-<!-- ========= END START BADGES ========= -->
-
-
-
-<!-- ========= START Repo Introductio ========= -->
-XXXXXXX
-XXXX
-
-
-
-<br><br>
-
-#
-
-<br><br>
-<!-- ========= END Repo Introductio ========= -->
-
-
-<!-- ========= START Confidentiality statement ========= -->
-
-> [!NOTE]
-> 
-> ⚠️ Heads Up
->
-> * Projects and deliverables may be made [publicly available]() whenever possible.
->   
-> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Machine Learning and Neural Networks** for partner organizations and institutions affiliated with the university.
->   
-> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
->   
-> * Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
-> <br>
->
->
-
-<br><br>
-
-#
-
-<br><br>
-<!-- ========= END Confidentiality statement  ========= -->
-
-
-<!-- ========= START Main Repo REFERENCE  ========= -->
-> [!TIP]
->
-> This repository is part of the flagship project:
-> **🔐 Cybersecurity, Social Engineering & AI Security — Main Hub**
->
-> Explore the complete ecosystem of materials, analyses, and notebooks in the central repository:
->
-> * 🔗 **[Cybersecurity, Social Engineering & AI Security — Main Hub Repository](https://github.com/Quantum-Software-Development/1-Cybersecurity-SocialEngineering_Main_Hub_Repository-PUCSP)**
->
-> *Part of the Humanistic AI Data Modeling Series — where data connects with human insight… and occasionally gets socially engineered. ⚡️
-
-<br><br><br><br>
-<!-- ========= END Main Repo REFERENCE  ========= -->
-
-
-<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
-
-
-<!-- ======================================= Start DEFAULT Footer ===========================================  -->
-<br><br>
-
-
-## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
-
-<br>
-
-
-#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
-
-
-<br>
-
-### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
-
-
-<br><br>
-
-<p align="center">  ────────────── ⊹🔭๋ ──────────────
-
-<!--
-<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
--->
-
-<br>
-
-<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
-  
-
-  
-#
- 
-##### <p align="center"> Copyright 2026 Quantum Software Development. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
-
-<!-- ======================================= End  DEFAULT Footer ===========================================  -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# .gitignore for class-6-cybersecurity-social-engineering-building-apis
+# Summary:
+# This .gitignore is designed for a Python + Flask + Jupyter project.
+# It keeps only source code, README, notebooks, and the Farmacia.xlsx file in the repository.
+# It ignores automatically generated files, local virtual environments, IDE settings,
+# logs, caches, and secret environment files, keeping the repository clean, portable, and secure.
+
+# Python bytecode and cache:
+# These files are created automatically by Python to speed up imports.
+# They should never be committed because they are generated again on any machine.
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Build / packaging artefacts:
+# Created when you build or distribute a package (dist, wheels, eggs, etc.).
+# They are derived artefacts, not source code.
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments:
+# Each developer can have their own venv; it should not be tracked in Git.
+.venv/
+venv/
+env/
+ENV/
+
+# Flask-specific:
+# 'instance/' is where Flask apps often store local configs, sqlite dbs, etc.
+# '.webassets-cache/' is created by some extensions to cache compiled assets.
+instance/
+.webassets-cache/
+
+# Environment variables / secrets:
+# .env files commonly store API keys, passwords, tokens, and config.
+# They must stay local and out of version control.
+.env
+.env.*
+*.env
+
+# Jupyter Notebook:
+# Checkpoint folders are autosave copies; they are noise in Git history.
+.ipynb_checkpoints/
+
+# IPython:
+# Local IPython configuration; environment-specific, not project-specific.
+profile_default/
+ipython_config.py
+
+# Tests / coverage:
+# These folders and files are generated when you run tests or coverage tools.
+# They are reproducible and should not be committed.
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type checkers / linters:
+# Caches for tools like mypy, pyre, pytype, ruff; they speed up checks locally.
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Logs:
+# Runtime logs are useful locally but not in source control.
+*.log
+
+# IDE / editor settings:
+# Each developer uses their own editor; these configs are personal.
+.vscode/
+.idea/
+
+# OS-specific files:
+# Created by the operating system (e.g. Finder, Explorer); always ignore.
+.DS_Store
+Thumbs.db
+
+# Local database files:
+# If you create small local DBs for testing (SQLite), usually they should not
+# be versioned. If one DB is part of the teaching material, add it explicitly
+# by name instead of '*.db'.
+*.sqlite3
+*.db
+
+# Temporary / backup files:
+# Generic patterns for temporary or backup files created by editors/tools.
+*.tmp
+*.bak
